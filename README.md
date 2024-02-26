@@ -2,9 +2,9 @@
 ## LOL游戏玩家类型与胜利条件大数据分析
 ### 源代码文件
 data_grasp.ipynb    网页爬虫源代码<br>
-data_deal.ipynb    数据探索性分析、召唤师
-data_logistic.ipynb LOL游戏胜利因素分析
-#### 数据表文件
+data_deal.ipynb    数据探索性分析、召唤师<br>
+data_logistic.ipynb LOL游戏胜利因素分析<br>
+ 数据表文件<br>
 matches.csv    网页爬虫结果数据表<br>
 result_julei.csv    聚类结果数据表
 ### 1 实验主题 <br>
