@@ -15,10 +15,10 @@
 rdd 的基本使用方法，完成从数据爬取、数据预处理、数据提取、数据建模、数
 据分析、数据可视化流程。<br>
 ###  3 实验环境 <br>
- jupyter+MiniConda+spark-3.3.1+hadoop3本地模式（python3.9）; <br>
- 可视化：seaborn；pyplot；missingno；<br>
- 数据获取：Rriotwatcher；<br>
- 数据处理：pyspark.sql；pyspark.ml；sklearn；pandas；numpy。<br>
+- jupyter+MiniConda+spark-3.3.1+hadoop3本地模式（python3.9）; <br>
+- 可视化：seaborn；pyplot；missingno；<br>
+- 数据获取：Rriotwatcher；<br>
+- 数据处理：pyspark.sql；pyspark.ml；sklearn；pandas；numpy。<br>
 ### 4 源代码文件
 data_grasp.ipynb    网页爬虫源代码<br>
 data_deal.ipynb    数据探索性分析、召唤师
