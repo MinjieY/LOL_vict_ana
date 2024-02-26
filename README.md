@@ -1,5 +1,12 @@
 
 ## LOL游戏玩家类型与胜利条件大数据分析
+### 源代码文件
+data_grasp.ipynb    网页爬虫源代码<br>
+data_deal.ipynb    数据探索性分析、召唤师
+data_logistic.ipynb LOL游戏胜利因素分析
+#### 数据表文件
+matches.csv    网页爬虫结果数据表<br>
+result_julei.csv    聚类结果数据表
 ### 1 实验主题 <br>
 以五个地区最新联赛比赛的前 100 名玩家数据为样本，爬取到的 2022 年
 12 月 19 日最新联赛比赛数据为对象，研究以下内容：<br>
@@ -19,13 +26,7 @@ rdd 的基本使用方法，完成从数据爬取、数据预处理、数据提�
 - 可视化：seaborn；pyplot；missingno；<br>
 - 数据获取：Rriotwatcher；<br>
 - 数据处理：pyspark.sql；pyspark.ml；sklearn；pandas；numpy。<br>
-### 4 源代码文件
-data_grasp.ipynb    网页爬虫源代码<br>
-data_deal.ipynb    数据探索性分析、召唤师
-data_logistic.ipynb LOL游戏胜利因素分析
-#### 数据表文件
-matches.csv    网页爬虫结果数据表<br>
-result_julei.csv    聚类结果数据表
+
 
 ### 可视化源代码
 scala_first    动态数据处理项目文件
